@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roqiaahmed
-- 👀 I’m interested in frontend development 
+- 👀 I’m interested in backend development 
 - 🌱 I’m currently learning frontend development
 
 <!---
