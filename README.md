@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roqiaahmed
 - 👀 I’m interested in backend development 
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning backend development
 
 <!---
 roqiaahmed/roqiaahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
